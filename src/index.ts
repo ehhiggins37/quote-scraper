@@ -20,4 +20,3 @@ AxiosInstance.get(url)
     console.log(allQuotes);
   })
   .catch(console.error);
-
